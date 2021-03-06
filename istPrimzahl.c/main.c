@@ -181,6 +181,8 @@ int main(){
     }while (beenden != 0);
     return 0;
     
+    printf("test");
+    
     //listePrimzahlen(1, 100);
     //listePrimzahlzwillinge(1, 100);
     //primFaktorZerlegung(2046);
