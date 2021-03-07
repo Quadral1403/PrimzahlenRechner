@@ -181,7 +181,7 @@ int main(){
     }while (beenden != 0);
     return 0;
     
-    printf("test");
+    printf("test3");
     
     //listePrimzahlen(1, 100);
     //listePrimzahlzwillinge(1, 100);
